@@ -1,0 +1,10 @@
+网站需要以下图片：
+
+1. app-preview.png - 软件界面预览图，建议尺寸：800x600像素
+2. future-features.png - 未来功能预览图，建议尺寸：800x600像素
+
+您可以使用以下在线服务生成占位图片：
+- https://placeholder.com/
+- https://placehold.co/
+
+或者使用实际的软件截图来替换这些占位图片。
